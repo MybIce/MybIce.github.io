@@ -18,11 +18,15 @@ My current interests include artificial intelligence, machine learning, data min
 
 I rank **1st out of 101 students** in my major, with a GPA of **4.19 / 5.00**. I have participated in several research and engineering projects involving machine learning, EEG analysis, LLM-based applications, and relational database systems.
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News
 
 - *2026.05*: Personal academic homepage launched.
 - *2026.01*: Joined a national-level undergraduate innovation project on EEG-based hallucination detection for large language models.
 - *2025.01*: Participated in a research project on Olympic medal prediction and mechanism quantification.
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications
 
@@ -35,6 +39,8 @@ I rank **1st out of 101 students** in my major, with a GPA of **4.19 / 5.00**. I
   *DB-CGM: Dual-Brain EEG for Token-Level Hallucination Detection in Large Language Models*.  
   Submitted to **ACM Multimedia**, fourth author.  
   This work explores token-level hallucination detection through dual-brain EEG hyperscanning and graph-based Mamba architecture.
+
+<span class='anchor' id='projects'></span>
 
 # 💻 Research and Project Experience
 
@@ -99,6 +105,8 @@ My contributions include:
 - Built advanced views such as attack index and season standings.
 - Delivered a data reporting system for tactical and business analysis.
 
+<span class='anchor' id='honors-and-awards'></span>
+
 # 🎖 Honors and Awards
 
 - *2025.12*, Provincial Third Prize, Contemporary Undergraduate Mathematical Contest in Modeling.
@@ -106,6 +114,8 @@ My contributions include:
 - *2025.01*, National Bronze Award, University Physics Competition.
 - *2024.12*, Provincial First Prize, Contemporary Undergraduate Mathematical Contest in Modeling.
 - *2024.12*, Second-class Academic Excellence Scholarship, Anhui University.
+
+<span class='anchor' id='education'></span>
 
 # 📖 Education
 
@@ -124,6 +134,8 @@ Selected courses:
 - Computer Organization: 93
 - Operating Systems: 93
 
+<span class='anchor' id='skills'></span>
+
 # 🛠 Skills
 
 - Programming: Python, C/C++, SQL, MATLAB
@@ -132,6 +144,8 @@ Selected courses:
 - Database: relational database design, E-R modeling, SQL queries
 - Tools: LaTeX, Markdown, GitHub, Gradio
 - Research Skills: literature review, experimental design, data analysis, academic writing
+
+<span class='anchor' id='contact'></span>
 
 # 📫 Contact
 
