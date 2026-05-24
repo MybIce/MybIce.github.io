@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "THB's Profile"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Hengbing Tu"
+description              : "Undergraduate student at Anhui University. Research interests include artificial intelligence, EEG analysis, computational modeling, and brain-computer intelligence."
 repository               : "MybIce/MybIce.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hengbing Tu"
   avatar           : "profile.jpg"
-  bio              : "Anhui University"
+  bio              : "Undergraduate Student in Digital Media Technology, Anhui University"
   location         : "Hefei, China"
-  employer         :
+  employer         : "Anhui University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=H4LWojIAAAAJ"
   email            : "r32314012@stu.ahu.edu.cn"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "MybIce" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
