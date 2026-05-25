@@ -36,7 +36,7 @@ I rank **1st out of 101 students** in my major, with a GPA of **4.19 / 5.00**. I
 
 - **Hengbing Tu**, et al.  
   *DB-CGM: Dual-Brain EEG for Token-Level Hallucination Detection in Large Language Models*.  
-  Manuscript under review, **ACM Multimedia**, fourth author.  
+  Manuscript under review, fourth author.  
   This work explores token-level hallucination detection through dual-brain EEG hyperscanning and graph-based Mamba architecture.
 
 <span class='anchor' id='projects'></span>
