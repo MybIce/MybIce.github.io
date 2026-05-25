@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hengbing Tu"
   avatar           : "profile.jpg"
-  bio              : "Undergraduate Student in Digital Media Technology, Anhui University"
+  bio              : 
   location         : "Hefei, China"
   employer         : "Anhui University"
   pubmed           : 
