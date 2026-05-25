@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hengbing Tu"
-description              : "Undergraduate student at Anhui University. Research interests: AI, machine learning, EEG analysis, and data-driven modeling."
+description              : 
 repository               : "MybIce/MybIce.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hengbing Tu"
   avatar           : "profile.jpg"
-  bio              : 
+  bio              : "Undergraduate student at Anhui University. Research interests: AI, machine learning, EEG analysis, and data-driven modeling."
   location         : "Hefei, China"
   employer         : "Anhui University"
   pubmed           : 
