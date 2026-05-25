@@ -22,7 +22,6 @@ I rank **1st out of 101 students** in my major, with a GPA of **4.19 / 5.00**. I
 
 # 🔥 News
 
-- *2026.05*: Personal academic homepage launched.
 - *2026.01*: Joined a national-level undergraduate innovation project on EEG-based hallucination detection for large language models.
 - *2025.01*: Participated in a research project on Olympic medal prediction and mechanism quantification.
 
