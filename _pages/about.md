@@ -99,11 +99,9 @@ This project involved the design and implementation of a relational database and
 
 My contributions include:
 
-- Designed an E-R model with 8 core entities.
-- Implemented primary-key and foreign-key constraints.
-- Wrote complex SQL queries involving nested JOINs and UNION ALL.
+- Designed an E-R model with 8 core entities based on real-world MLS data.
+- Implemented relational constraints and complex SQL queries involving nested JOINs and UNION ALL.
 - Built advanced views such as attack index and season standings.
-- Delivered a data reporting system for tactical and business analysis.
 
 <span class='anchor' id='honors-and-awards'></span>
 
@@ -119,7 +117,7 @@ My contributions include:
 
 # 📖 Education
 
-- *2023.09 - Present*, B.Eng. in Digital Media Technology, School of New York Stony Brook, Anhui University, Hefei, China.  
+- *2023.09 - Present*, B.Eng. in Digital Media Technology, Anhui University, Hefei, China.  
   GPA: **4.19 / 5.00**.  
   Ranking: **1 / 101**.
 
