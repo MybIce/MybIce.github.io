@@ -14,9 +14,9 @@ redirect_from:
 
 I am an undergraduate student majoring in Digital Media Technology at Anhui University. My academic training is mainly related to computer science, including data structures, computer organization, operating systems, computer networks, database systems, machine learning, and data analysis.
 
-My current interests include artificial intelligence, machine learning, data mining, EEG-based analysis, large language models, and interdisciplinary computational modeling. I am currently preparing for graduate study in computer science and related areas.
+I rank **1st out of 101 students** in my major, with a GPA of **4.19 / 5.00**. My research and project experience covers machine learning, EEG-based analysis, large language models, data mining, and relational database systems.
 
-I rank **1st out of 101 students** in my major, with a GPA of **4.19 / 5.00**. I have participated in several research and engineering projects involving machine learning, EEG analysis, LLM-based applications, and relational database systems.
+My current interests include artificial intelligence, machine learning, EEG analysis, large language models, and interdisciplinary computational modeling. I am currently preparing for graduate study in computer science and related areas.
 
 <span class='anchor' id='news'></span>
 
