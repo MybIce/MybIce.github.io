@@ -69,8 +69,7 @@ This project aims to detect hallucinations in large language models by incorpora
 My contributions include:
 
 - Assisted in the implementation of the dual-brain hyperscanning experimental paradigm.
-- Participated in the construction of the core EEG dataset.
-- Participated in synchronized EEG data collection and dataset construction.
+- Participated in synchronized EEG data collection and core dataset construction.
 - Conducted ICA-based denoising, artifact removal, and token-level timestamp alignment.
 - Assisted in result analysis and paper preparation.
 
