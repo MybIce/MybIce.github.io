@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 
-I am an undergraduate student majoring in Digital Media Technology at Anhui University. My academic training is mainly related to computer science, including data structures, computer organization, operating systems, computer networks, database systems, machine learning, and data analysis.
+I  am an undergraduate student majoring in Digital Media Technology at Anhui University. My academic training is mainly related to computer science, including data structures, computer organization, operating systems, computer networks, database systems, machine learning, and data analysis.
 
 My current interests include artificial intelligence, machine learning, data mining, EEG-based analysis, large language models, and interdisciplinary computational modeling. I am currently preparing for graduate study in computer science and related areas.
 
