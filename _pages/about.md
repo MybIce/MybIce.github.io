@@ -141,10 +141,3 @@ Selected courses:
 - Tools: LaTeX, Markdown, GitHub, Gradio
 - Research Skills: literature review, experimental design, data analysis, academic writing
 
-<span class='anchor' id='contact'></span>
-
-# 📫 Contact
-
-- Email: r32314012@stu.ahu.edu.cn
-- GitHub: [MybIce](https://github.com/MybIce)
-- Google Scholar: [Profile](https://scholar.google.com/citations?user=H4LWojIAAAAJ)
