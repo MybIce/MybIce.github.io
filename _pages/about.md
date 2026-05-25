@@ -70,7 +70,7 @@ My contributions include:
 
 - Assisted in the implementation of the dual-brain hyperscanning experimental paradigm.
 - Participated in the construction of the core EEG dataset.
-- Completed synchronous EEG data collection from **40 participants**.
+- Participated in synchronized EEG data collection and dataset construction.
 - Conducted ICA-based denoising, artifact removal, and token-level timestamp alignment.
 - Assisted in result analysis and paper preparation.
 
